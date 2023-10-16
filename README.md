@@ -3,7 +3,6 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>STOREASE</title>
    </head>
    <body>
       <p><strong>STOREASE &ndash; INVENTORY WITH EASE</strong></p>
